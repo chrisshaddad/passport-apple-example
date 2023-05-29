@@ -64,3 +64,5 @@ typings/
 config/AuthKey.p8
 config/config.json
 *.p8
+localhost.key
+localhost.crt
